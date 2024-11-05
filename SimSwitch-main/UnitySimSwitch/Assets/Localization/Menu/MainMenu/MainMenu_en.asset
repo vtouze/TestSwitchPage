@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainMenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: eaa1778a2ad525599b3d643e20ef76b1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 118317436928
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 184763600896
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 236340957184
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306712989696
+    m_Localized: Encyclopedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6860333961216
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6944660443136
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7005272330240
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7078223859712
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7183375060992
+    m_Localized: Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8653709299712
+    m_Localized: Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8721338257408
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9349808574464
+    m_Localized: Are you sure?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9623218475008
+    m_Localized: Are you sure you wish to quit the game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755650909229056
+    m_Localized: Forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755842131742720
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755898104729600
+    m_Localized: Backward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755966459301888
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756130796326912
+    m_Localized: Mouse Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756326758404096
+    m_Localized: Camera Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 756414213836800
+    m_Localized: Camera
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
