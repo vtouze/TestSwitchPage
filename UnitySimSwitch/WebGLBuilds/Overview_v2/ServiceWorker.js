@@ -1,9 +1,9 @@
 const cacheName = "IRD-Montpellier-SimSwitch-0.1";
 const contentToCache = [
     "Build/Overview_v2.loader.js",
-    "Build/Overview_v2.framework.js",
-    "Build/Overview_v2.data",
-    "Build/Overview_v2.wasm",
+    "Build/Overview_v2.framework.js.gz",
+    "Build/Overview_v2.data.gz",
+    "Build/Overview_v2.wasm.gz",
     "TemplateData/style.css"
 
 ];
